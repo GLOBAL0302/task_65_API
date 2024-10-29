@@ -1,1 +1,1 @@
-export const constants = ['about', 'contacts', 'divisions'];
+export const constants = ['about', 'contacts', 'divisions', 'location'];
